@@ -82,7 +82,7 @@ A feature-packed script hub for **99 Nights in the Forest**, bringing automation
 - Mute Specific Sounds (Rain, Crafting Bench)
 - Kill / Troll Other Players 👿
 
-## 🛒 Shop UI — Buy Without Teleporting to NPCs
+## 🛒 Shop UI - Buy Without Teleporting to NPCs
 
 - Crafting Bench
 - Fairy House
