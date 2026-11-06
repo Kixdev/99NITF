@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO&left_text=README%20VIEWS&right_color=%2310B981&format=true" alt="README Views" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat&logo=github&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=flat&logo=github&label=Forks" alt="GitHub Forks" />
 </p>
 
 <h1 align="center">🌲 99 Nights in the Forest — KIXDEV HUB</h1>
