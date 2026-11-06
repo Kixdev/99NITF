@@ -2,12 +2,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO&left_text=README%20VIEWS&right_color=%2310B981&format=true" alt="README Views" />
 </p>
 
-<h1 align="center">🌲 99 Nights in the Forest — KIXDEV HUB</h1>
+<h1 align="center">🌲 99 Nights in the Forest - KIXDEV HUB</h1>
 <p align="center"><strong>Automation • Farming • Combat • Building • Exploration • Utilities</strong></p>
 
 A feature-packed script hub for **99 Nights in the Forest**, bringing automation, convenience tools, and customizable gameplay features together in one place.
-
-> **Note:** The README counter above measures badge views from the time it is installed. It does **not** measure unique people, historical repository visits, or script executions.
 
 ---
 
