@@ -2367,7 +2367,7 @@
   "Stop Windmill Spin": "停止风车自旋",
   "Stop safely and continue from the first closed gate next time.": "安全停车,下次从第一个封闭的大门继续",
   "Stopping the cave expedition": "停止洞穴探险",
-  "Stops the current blueprint preview. Selecting another template starts its preview again.": "停止当前蓝图预览。选择另一个模板再次启动预览。",
+  "Stops the current preview. Press Apply Structures by Name below to show it again, or select another template to start its preview.": "停止当前预览。点击下方的“按名称应用结构”即可再次显示，或选择其他模板来开始预览。",
   "Store": "存储",
   "Stores Logs within 80 studs in your Sack automatically. No need to equip it (Woodsman Class required).": "自动存储在您 Sack 的 80 根内。 不需要设备( 需要巫师类) 。",
   "Stores costume clothes": "服装的储存",
